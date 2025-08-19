@@ -1,4 +1,4 @@
-🔥 Day 20 of My 90 Days DSA with JavaScript Challenge! 🔥
+🔥 Day 21 of My 90 Days DSA with JavaScript Challenge! 🔥
 
 Today was all about solving one of the most interesting string problems: Group Anagrams – and I explored two different approaches:
 ✅ Using Sorted Key
