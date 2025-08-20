@@ -1,4 +1,4 @@
-🚀 Day 18 of My 90 Days DSA with JavaScript Challenge! 💻🔥
+🚀 Day 22 of My 90 Days DSA with JavaScript Challenge! 💻🔥
 
 Today was all about Linked Lists & String Manipulation! Here’s what I accomplished:
 
