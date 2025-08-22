@@ -1,4 +1,4 @@
-✅ Day 20 of DSA Journey – Tackling Palindrome & Queue Challenges
+✅ Day 24 of DSA Journey – Tackling Palindrome & Queue Challenges
 
 Today was all about problem-solving with a twist of real-world applications. Here’s what I accomplished:
 
