@@ -1,4 +1,4 @@
-Day X: The Ultimate Revision Day – Strengthening the Foundation!
+Day 26: The Ultimate Revision Day – Strengthening the Foundation!
 
 Today was all about going back to the roots and reinforcing every concept I’ve learned so far. Rather than jumping into new problems, I dedicated the entire day to revising all the topics I have covered during this journey.
 
